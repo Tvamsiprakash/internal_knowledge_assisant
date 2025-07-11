@@ -1,0 +1,21 @@
+IT Onboarding Guide
+
+Welcome to the company! This document outlines your basic IT setup.
+
+1. Email:
+   - Your email ID will be first.last@company.com
+   - Login through Outlook or Webmail using SSO credentials.
+
+2. VPN Access:
+   - Required for remote work and server access.
+   - Download FortiClient from internal tools portal.
+
+3. Software:
+   - Teams, Slack, Jira, Zoom pre-installed on your laptop.
+   - Additional software can be requested through the IT Helpdesk.
+
+4. Passwords:
+   - Change all temporary passwords within 24 hours.
+   - Use strong passwords with at least 12 characters.
+
+Need help? Submit a ticket at helpdesk.company.com or email it-support@company.com.
