@@ -1,6 +1,6 @@
 from fastapi import FastAPI, UploadFile, File
 from pydantic import BaseModel
-from app.rag_pipeline import RAGPipeline
+from .rag_pipeline import RAGPipeline
 
 app = FastAPI()
 rag = RAGPipeline()
