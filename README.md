@@ -32,7 +32,7 @@ Follow these steps to set up and run the project on your local machine.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/tvamsiprakash/Internal-Knowledge-Assistant.git](https://github.com/tvamsiprakash/Internal-Knowledge-Assistant.git)
+    git clone [https://github.com/Tvamsiprakash/internal-knowledge-assistant.git]
     cd Internal-Knowledge-Assistant
     ```
 
