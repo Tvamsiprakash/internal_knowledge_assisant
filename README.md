@@ -55,7 +55,7 @@ Follow these steps to set up and run the project on your local machine.
 2.  **Start the Streamlit frontend:**
     Open a new terminal session, navigate to the `ui` directory, and run:
     ```bash
-    streamlit run ui/streamlit.py
+    streamlit run ui/streamlit_app.py
     ```
     This will launch the web UI in your browser.
 
